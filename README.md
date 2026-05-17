@@ -1,6 +1,6 @@
 # AGISAC-AOI仿真实验
 
-《AoI Optimization for UAV-Assisted AG-ISAC》的仿真代码。项目基于空地一体化感知通信场景，构建无人机用户、对抗无人机、地面任务点与基站组成的动态环境，并使用 TD3 强化学习算法优化无人机飞行方向、速度、感知功率和通信功率，以降低系统信息时效（Age of Information, AoI）并提升任务完成效率。
+《AoI minimization for air-ground integrated sensing and communication networks with jamming attack》的仿真代码。项目基于空地一体化感知通信场景，构建无人机用户、对抗无人机、地面任务点与基站组成的动态环境，并使用 TD3 强化学习算法优化无人机飞行方向、速度、感知功率和通信功率，以降低系统信息时效（Age of Information, AoI）并提升任务完成效率。
 
 ## 文件结构
 
